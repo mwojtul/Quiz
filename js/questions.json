@@ -1,6 +1,6 @@
 [  
    {  
-      "question":"What city is The Knick set in?",
+      "title":"What city is The Knick set in?",
       "choices":[  
          "Chicago",
          "New York",
@@ -10,7 +10,7 @@
       "answer":1
    },
    {  
-      "question":"Who plays Dr. John W. Thackery?",
+      "title":"Who plays Dr. John W. Thackery?",
       "choices":[  
          "Clive Owen",
          "Daniel Craig",
@@ -20,7 +20,7 @@
       "answer":0
    },
    {  
-      "question":"Who is Dr. John W. Thackery based on?",
+      "title":"Who is Dr. John W. Thackery based on?",
       "choices":[  
          "Howard Atwood Kelly",
          "William H. Welch",
@@ -30,7 +30,7 @@
       "answer":2
    },
    {  
-      "question":"What network does the show air on?",
+      "title":"What network does the show air on?",
       "choices":[  
          "HBO",
          "Showtime",
